@@ -1,0 +1,382 @@
+model,round,puzzle_type,guess_number,result,color_if_correct
+Muse Spark,1,NYT,1,N,
+Muse Spark,1,NYT,2,Y,Purple
+Muse Spark,1,NYT,3,Y,Yellow
+Muse Spark,1,NYT,4,Y,Blue
+Muse Spark,1,NYT,5,Y,Green
+Muse Spark,2,NYT,1,N,
+Muse Spark,2,NYT,2,Y,Green
+Muse Spark,2,NYT,3,N,
+Muse Spark,2,NYT,4,Y,Yellow
+Muse Spark,2,NYT,5,1,
+Muse Spark,2,NYT,6,N,
+Muse Spark,3,NYT,1,Y,Blue
+Muse Spark,3,NYT,2,Y,Green
+Muse Spark,3,NYT,3,1,
+Muse Spark,3,NYT,4,Y,Yellow
+Muse Spark,3,NYT,5,Y,Purple
+Muse Spark,4,NYT,1,Y,Purple
+Muse Spark,4,NYT,2,Y,Blue
+Muse Spark,4,NYT,3,Y,Yellow
+Muse Spark,4,NYT,4,Y,Green
+Muse Spark,5,NYT,1,Y,Purple
+Muse Spark,5,NYT,2,Y,Green
+Muse Spark,5,NYT,3,Y,Blue
+Muse Spark,5,NYT,4,Y,Yellow
+Muse Spark,6,Custom,1,Y,Purple
+Muse Spark,6,Custom,2,1,
+Muse Spark,6,Custom,3,Y,Blue
+Muse Spark,6,Custom,4,Y,Green
+Muse Spark,6,Custom,5,Y,Yellow
+Muse Spark,7,Custom,1,1,
+Muse Spark,7,Custom,2,1,
+Muse Spark,7,Custom,3,N,
+Muse Spark,7,Custom,4,1,
+Muse Spark,8,Custom,1,N,
+Muse Spark,8,Custom,2,N,
+Muse Spark,8,Custom,3,N,
+Muse Spark,8,Custom,4,N,
+Muse Spark,9,Custom,1,N,
+Muse Spark,9,Custom,2,Y,Blue
+Muse Spark,9,Custom,3,1,
+Muse Spark,9,Custom,4,N,
+Muse Spark,9,Custom,5,1,
+Muse Spark,10,Custom,1,N,
+Muse Spark,10,Custom,2,1,
+Muse Spark,10,Custom,3,N,
+Muse Spark,10,Custom,4,N,
+ChatGPT,1,NYT,1,Y,Yellow
+ChatGPT,1,NYT,2,1,
+ChatGPT,1,NYT,3,Y,Green
+ChatGPT,1,NYT,4,1,
+ChatGPT,1,NYT,5,N,
+ChatGPT,1,NYT,6,Y,Blue
+ChatGPT,1,NYT,7,Y,Purple
+ChatGPT,2,NYT,1,N,
+ChatGPT,2,NYT,2,N,
+ChatGPT,2,NYT,3,Y,Yellow
+ChatGPT,2,NYT,4,N,
+ChatGPT,2,NYT,5,Y,Green
+ChatGPT,2,NYT,6,1,
+ChatGPT,3,NYT,1,Y,Blue
+ChatGPT,3,NYT,2,N,
+ChatGPT,3,NYT,3,1,
+ChatGPT,3,NYT,4,Y,Purple
+ChatGPT,3,NYT,5,Y,Green
+ChatGPT,3,NYT,6,Y,Yellow
+ChatGPT,4,NYT,1,Y,Blue
+ChatGPT,4,NYT,2,N,
+ChatGPT,4,NYT,3,1,
+ChatGPT,4,NYT,4,Y,Green
+ChatGPT,4,NYT,5,Y,Yellow
+ChatGPT,4,NYT,6,Y,Purple
+ChatGPT,5,NYT,1,Y,Yellow
+ChatGPT,5,NYT,2,Y,Green
+ChatGPT,5,NYT,3,N,
+ChatGPT,5,NYT,4,N,
+ChatGPT,5,NYT,5,Y,Blue
+ChatGPT,5,NYT,6,Y,Purple
+ChatGPT,6,Custom,1,1,
+ChatGPT,6,Custom,2,1,
+ChatGPT,6,Custom,3,1,
+ChatGPT,6,Custom,4,Y,Blue
+ChatGPT,6,Custom,5,1,
+ChatGPT,7,Custom,1,Y,Blue
+ChatGPT,7,Custom,2,1,
+ChatGPT,7,Custom,3,1,
+ChatGPT,7,Custom,4,Y,Yellow
+ChatGPT,7,Custom,5,1,
+ChatGPT,7,Custom,6,N,
+ChatGPT,8,Custom,1,N,
+ChatGPT,8,Custom,2,N,
+ChatGPT,8,Custom,3,N,
+ChatGPT,8,Custom,4,1,
+ChatGPT,9,Custom,1,N,
+ChatGPT,9,Custom,2,N,
+ChatGPT,9,Custom,3,1,
+ChatGPT,9,Custom,4,1,
+ChatGPT,10,Custom,1,N,
+ChatGPT,10,Custom,2,Y,Yellow
+ChatGPT,10,Custom,3,Y,Green
+ChatGPT,10,Custom,4,N,
+ChatGPT,10,Custom,5,1,
+ChatGPT,10,Custom,6,N,
+Gemini,1,NYT,1,Y,Purple
+Gemini,1,NYT,2,Y,Blue
+Gemini,1,NYT,3,Y,Green
+Gemini,1,NYT,4,Y,Yellow
+Gemini,2,NYT,1,Y,Purple
+Gemini,2,NYT,2,Y,Blue
+Gemini,2,NYT,3,Y,Green
+Gemini,2,NYT,4,Y,Yellow
+Gemini,3,NYT,1,Y,Purple
+Gemini,3,NYT,2,Y,Yellow
+Gemini,3,NYT,3,Y,Green
+Gemini,3,NYT,4,Y,Blue
+Gemini,4,NYT,1,Y,Purple
+Gemini,4,NYT,2,Y,Blue
+Gemini,4,NYT,3,Y,Yellow
+Gemini,4,NYT,4,Y,Green
+Gemini,5,NYT,1,Y,Purple
+Gemini,5,NYT,2,Y,Green
+Gemini,5,NYT,3,Y,Blue
+Gemini,5,NYT,4,Y,Yellow
+Gemini,6,Custom,1,Y,Purple
+Gemini,6,Custom,2,1,
+Gemini,6,Custom,3,Y,Blue
+Gemini,6,Custom,4,Y,Green
+Gemini,6,Custom,5,Y,Yellow
+Gemini,7,Custom,1,Y,Blue
+Gemini,7,Custom,2,Y,Yellow
+Gemini,7,Custom,3,1,
+Gemini,7,Custom,4,Y,Green
+Gemini,7,Custom,5,Y,Purple
+Gemini,8,Custom,1,1,
+Gemini,8,Custom,2,1,
+Gemini,8,Custom,3,N,
+Gemini,8,Custom,4,N,
+Gemini,9,Custom,1,N,
+Gemini,9,Custom,2,1,
+Gemini,9,Custom,3,N,
+Gemini,9,Custom,4,N,
+Gemini,10,Custom,1,Y,Yellow
+Gemini,10,Custom,2,Y,Green
+Gemini,10,Custom,3,N,
+Gemini,10,Custom,4,1,
+Gemini,10,Custom,5,N,
+Gemini,10,Custom,6,N,
+Vibe by Mistral,1,NYT,1,Y,Purple
+Vibe by Mistral,1,NYT,2,Y,Yellow
+Vibe by Mistral,1,NYT,3,Y,Blue
+Vibe by Mistral,1,NYT,4,Y,Green
+Vibe by Mistral,2,NYT,1,N,
+Vibe by Mistral,2,NYT,2,1,
+Vibe by Mistral,2,NYT,3,1,
+Vibe by Mistral,2,NYT,4,1,
+Vibe by Mistral,3,NYT,1,N,
+Vibe by Mistral,3,NYT,2,Y,Green
+Vibe by Mistral,3,NYT,3,1,
+Vibe by Mistral,3,NYT,4,1,
+Vibe by Mistral,3,NYT,5,Y,Purple
+Vibe by Mistral,3,NYT,6,Y,Blue
+Vibe by Mistral,3,NYT,7,Y,Yellow
+Vibe by Mistral,4,NYT,1,Y,Purple
+Vibe by Mistral,4,NYT,2,Y,Yellow
+Vibe by Mistral,4,NYT,3,Y,Blue
+Vibe by Mistral,4,NYT,4,Y,Green
+Vibe by Mistral,5,NYT,1,Y,Purple
+Vibe by Mistral,5,NYT,2,Y,Green
+Vibe by Mistral,5,NYT,3,Y,Blue
+Vibe by Mistral,5,NYT,4,Y,Yellow
+Vibe by Mistral,6,Custom,1,Y,Purple
+Vibe by Mistral,6,Custom,2,1,
+Vibe by Mistral,6,Custom,3,1,
+Vibe by Mistral,6,Custom,4,Y,Blue
+Vibe by Mistral,6,Custom,5,Y,Green
+Vibe by Mistral,6,Custom,6,Y,Yellow
+Vibe by Mistral,7,Custom,1,Y,Blue
+Vibe by Mistral,7,Custom,2,1,
+Vibe by Mistral,7,Custom,3,N,
+Vibe by Mistral,7,Custom,4,N,
+Vibe by Mistral,7,Custom,5,Y,Green
+Vibe by Mistral,7,Custom,6,Y,Purple
+Vibe by Mistral,7,Custom,7,Y,Yellow
+Vibe by Mistral,8,Custom,1,N,
+Vibe by Mistral,8,Custom,2,1,
+Vibe by Mistral,8,Custom,3,1,
+Vibe by Mistral,8,Custom,4,N,
+Vibe by Mistral,9,Custom,1,N,
+Vibe by Mistral,9,Custom,2,N,
+Vibe by Mistral,9,Custom,3,N,
+Vibe by Mistral,9,Custom,4,N,
+Vibe by Mistral,10,Custom,1,Y,Yellow
+Vibe by Mistral,10,Custom,2,Y,Green
+Vibe by Mistral,10,Custom,3,1,
+Vibe by Mistral,10,Custom,4,N,
+Vibe by Mistral,10,Custom,5,N,
+Vibe by Mistral,10,Custom,6,N,
+DeepSeek,1,NYT,1,Y,Blue
+DeepSeek,1,NYT,2,Y,Purple
+DeepSeek,1,NYT,3,Y,Yellow
+DeepSeek,1,NYT,4,Y,Green
+DeepSeek,2,NYT,1,N,
+DeepSeek,2,NYT,2,N,
+DeepSeek,2,NYT,3,1,
+DeepSeek,2,NYT,4,N,
+DeepSeek,3,NYT,1,Y,Purple
+DeepSeek,3,NYT,2,Y,Blue
+DeepSeek,3,NYT,3,Y,Green
+DeepSeek,3,NYT,4,Y,Yellow
+DeepSeek,4,NYT,1,Y,Purple
+DeepSeek,4,NYT,2,Y,Blue
+DeepSeek,4,NYT,3,Y,Yellow
+DeepSeek,4,NYT,4,Y,Green
+DeepSeek,5,NYT,1,N,
+DeepSeek,5,NYT,2,Y,Green
+DeepSeek,5,NYT,3,Y,Yellow
+DeepSeek,5,NYT,4,Y,Purple
+DeepSeek,5,NYT,5,Y,Blue
+DeepSeek,6,Custom,1,Y,Purple
+DeepSeek,6,Custom,2,1,
+DeepSeek,6,Custom,3,N,
+DeepSeek,6,Custom,4,1,
+DeepSeek,6,Custom,5,Y,Yellow
+DeepSeek,6,Custom,6,Y,Blue
+DeepSeek,6,Custom,7,Y,Green
+DeepSeek,7,Custom,1,Y,Blue
+DeepSeek,7,Custom,2,1,
+DeepSeek,7,Custom,3,1,
+DeepSeek,7,Custom,4,Y,Green
+DeepSeek,7,Custom,5,Y,Purple
+DeepSeek,7,Custom,6,Y,Yellow
+DeepSeek,8,Custom,1,1,
+DeepSeek,8,Custom,2,N,
+DeepSeek,8,Custom,3,N,
+DeepSeek,8,Custom,4,Y,Yellow
+DeepSeek,8,Custom,5,N,
+DeepSeek,9,Custom,1,N,
+DeepSeek,9,Custom,2,N,
+DeepSeek,9,Custom,3,1,
+DeepSeek,9,Custom,4,N,
+DeepSeek,10,Custom,1,N,
+DeepSeek,10,Custom,2,Y,Yellow
+DeepSeek,10,Custom,3,Y,Green
+DeepSeek,10,Custom,4,N,
+DeepSeek,10,Custom,5,1,
+DeepSeek,10,Custom,6,N,
+Claude,1,NYT,1,N,
+Claude,1,NYT,2,Y,Blue
+Claude,1,NYT,3,Y,Purple
+Claude,1,NYT,4,Y,Yellow
+Claude,1,NYT,5,Y,Green
+Claude,2,NYT,1,Y,Green
+Claude,2,NYT,2,Y,Purple
+Claude,2,NYT,3,Y,Blue
+Claude,2,NYT,4,Y,Yellow
+Claude,3,NYT,1,Y,Purple
+Claude,3,NYT,2,Y,Green
+Claude,3,NYT,3,Y,Blue
+Claude,3,NYT,4,Y,Yellow
+Claude,4,NYT,1,Y,Purple
+Claude,4,NYT,2,Y,Yellow
+Claude,4,NYT,3,Y,Blue
+Claude,4,NYT,4,Y,Green
+Claude,5,NYT,1,Y,Yellow
+Claude,5,NYT,2,Y,Green
+Claude,5,NYT,3,Y,Purple
+Claude,5,NYT,4,Y,Blue
+Claude,6,Custom,1,Y,Purple
+Claude,6,Custom,2,1,
+Claude,6,Custom,3,Y,Blue
+Claude,6,Custom,4,Y,Green
+Claude,6,Custom,5,Y,Yellow
+Claude,7,Custom,1,Y,Purple
+Claude,7,Custom,2,Y,Blue
+Claude,7,Custom,3,Y,Green
+Claude,7,Custom,4,Y,Yellow
+Claude,8,Custom,1,N,
+Claude,8,Custom,2,1,
+Claude,8,Custom,3,1,
+Claude,8,Custom,4,N,
+Claude,9,Custom,1,N,
+Claude,9,Custom,2,1,
+Claude,9,Custom,3,1,
+Claude,9,Custom,4,N,
+Claude,10,Custom,1,Y,Yellow
+Claude,10,Custom,2,Y,Green
+Claude,10,Custom,3,1,
+Claude,10,Custom,4,N,
+Claude,10,Custom,5,1,
+Claude,10,Custom,6,1,
+Grok,1,NYT,1,Y,Yellow
+Grok,1,NYT,2,Y,Green
+Grok,1,NYT,3,Y,Purple
+Grok,1,NYT,4,Y,Blue
+Grok,2,NYT,1,N,
+Grok,2,NYT,2,Y,Yellow
+Grok,2,NYT,3,1,
+Grok,2,NYT,4,N,
+Grok,2,NYT,5,1,
+Grok,3,NYT,1,Y,Yellow
+Grok,3,NYT,2,Y,Green
+Grok,3,NYT,3,Y,Blue
+Grok,3,NYT,4,Y,Purple
+Grok,4,NYT,1,Y,Blue
+Grok,4,NYT,2,Y,Yellow
+Grok,4,NYT,3,Y,Green
+Grok,4,NYT,4,Y,Purple
+Grok,5,NYT,1,Y,Green
+Grok,5,NYT,2,Y,Blue
+Grok,5,NYT,3,Y,Purple
+Grok,5,NYT,4,Y,Yellow
+Grok,6,Custom,1,1,
+Grok,6,Custom,2,Y,Blue
+Grok,6,Custom,3,1,
+Grok,6,Custom,4,1,
+Grok,6,Custom,5,Y,Green
+Grok,6,Custom,6,1,
+Grok,7,Custom,1,1,
+Grok,7,Custom,2,Y,Yellow
+Grok,7,Custom,3,N,
+Grok,7,Custom,4,1,
+Grok,7,Custom,5,N,
+Grok,8,Custom,1,N,
+Grok,8,Custom,2,N,
+Grok,8,Custom,3,N,
+Grok,8,Custom,4,N,
+Grok,9,Custom,1,N,
+Grok,9,Custom,2,N,
+Grok,9,Custom,3,N,
+Grok,9,Custom,4,1,
+Grok,10,Custom,1,1,
+Grok,10,Custom,2,Y,Green
+Grok,10,Custom,3,1,
+Grok,10,Custom,4,N,
+Grok,10,Custom,5,N,
+Copilot,1,NYT,1,Y,Yellow
+Copilot,1,NYT,2,Y,Purple
+Copilot,1,NYT,3,Y,Green
+Copilot,1,NYT,4,Y,Blue
+Copilot,2,NYT,1,Y,Yellow
+Copilot,2,NYT,2,N,
+Copilot,2,NYT,3,N,
+Copilot,2,NYT,4,Y,Green
+Copilot,2,NYT,5,Y,Blue
+Copilot,2,NYT,6,Y,Purple
+Copilot,3,NYT,1,Y,Blue
+Copilot,3,NYT,2,Y,Green
+Copilot,3,NYT,3,Y,Purple
+Copilot,3,NYT,4,Y,Yellow
+Copilot,4,NYT,1,Y,Purple
+Copilot,4,NYT,2,Y,Blue
+Copilot,4,NYT,3,Y,Yellow
+Copilot,4,NYT,4,Y,Green
+Copilot,5,NYT,1,Y,Green
+Copilot,5,NYT,2,Y,Yellow
+Copilot,5,NYT,3,Y,Purple
+Copilot,5,NYT,4,Y,Blue
+Copilot,6,Custom,1,1,
+Copilot,6,Custom,2,1,
+Copilot,6,Custom,3,Y,Blue
+Copilot,6,Custom,4,1,
+Copilot,6,Custom,5,1,
+Copilot,7,Custom,1,1,
+Copilot,7,Custom,2,1,
+Copilot,7,Custom,3,1,
+Copilot,7,Custom,4,Y,Yellow
+Copilot,7,Custom,5,Y,Green
+Copilot,7,Custom,6,Y,Purple
+Copilot,7,Custom,7,Y,Blue
+Copilot,8,Custom,1,1,
+Copilot,8,Custom,2,N,
+Copilot,8,Custom,3,N,
+Copilot,8,Custom,4,N,
+Copilot,9,Custom,1,N,
+Copilot,9,Custom,2,N,
+Copilot,9,Custom,3,1,
+Copilot,9,Custom,4,1,
+Copilot,10,Custom,1,N,
+Copilot,10,Custom,2,N,
+Copilot,10,Custom,3,N,
+Copilot,10,Custom,4,Y,Yellow
+Copilot,10,Custom,5,N,

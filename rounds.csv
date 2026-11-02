@@ -1,0 +1,81 @@
+model,round,puzzle_type,guesses,connections_found,one_away,wrong,mistakes,solved,perfect
+Muse Spark,1,NYT,5,4,0,1,1,1,0
+Muse Spark,2,NYT,6,2,1,3,4,0,0
+Muse Spark,3,NYT,5,4,1,0,1,1,0
+Muse Spark,4,NYT,4,4,0,0,0,1,1
+Muse Spark,5,NYT,4,4,0,0,0,1,1
+Muse Spark,6,Custom,5,4,1,0,1,1,0
+Muse Spark,7,Custom,4,0,3,1,4,0,0
+Muse Spark,8,Custom,4,0,0,4,4,0,0
+Muse Spark,9,Custom,5,1,2,2,4,0,0
+Muse Spark,10,Custom,4,0,1,3,4,0,0
+ChatGPT,1,NYT,7,4,2,1,3,1,0
+ChatGPT,2,NYT,6,2,1,3,4,0,0
+ChatGPT,3,NYT,6,4,1,1,2,1,0
+ChatGPT,4,NYT,6,4,1,1,2,1,0
+ChatGPT,5,NYT,6,4,0,2,2,1,0
+ChatGPT,6,Custom,5,1,4,0,4,0,0
+ChatGPT,7,Custom,6,2,3,1,4,0,0
+ChatGPT,8,Custom,4,0,1,3,4,0,0
+ChatGPT,9,Custom,4,0,2,2,4,0,0
+ChatGPT,10,Custom,6,2,1,3,4,0,0
+Gemini,1,NYT,4,4,0,0,0,1,1
+Gemini,2,NYT,4,4,0,0,0,1,1
+Gemini,3,NYT,4,4,0,0,0,1,1
+Gemini,4,NYT,4,4,0,0,0,1,1
+Gemini,5,NYT,4,4,0,0,0,1,1
+Gemini,6,Custom,5,4,1,0,1,1,0
+Gemini,7,Custom,5,4,1,0,1,1,0
+Gemini,8,Custom,4,0,2,2,4,0,0
+Gemini,9,Custom,4,0,1,3,4,0,0
+Gemini,10,Custom,6,2,1,3,4,0,0
+Vibe by Mistral,1,NYT,4,4,0,0,0,1,1
+Vibe by Mistral,2,NYT,4,0,3,1,4,0,0
+Vibe by Mistral,3,NYT,7,4,2,1,3,1,0
+Vibe by Mistral,4,NYT,4,4,0,0,0,1,1
+Vibe by Mistral,5,NYT,4,4,0,0,0,1,1
+Vibe by Mistral,6,Custom,6,4,2,0,2,1,0
+Vibe by Mistral,7,Custom,7,4,1,2,3,1,0
+Vibe by Mistral,8,Custom,4,0,2,2,4,0,0
+Vibe by Mistral,9,Custom,4,0,0,4,4,0,0
+Vibe by Mistral,10,Custom,6,2,1,3,4,0,0
+DeepSeek,1,NYT,4,4,0,0,0,1,1
+DeepSeek,2,NYT,4,0,1,3,4,0,0
+DeepSeek,3,NYT,4,4,0,0,0,1,1
+DeepSeek,4,NYT,4,4,0,0,0,1,1
+DeepSeek,5,NYT,5,4,0,1,1,1,0
+DeepSeek,6,Custom,7,4,2,1,3,1,0
+DeepSeek,7,Custom,6,4,2,0,2,1,0
+DeepSeek,8,Custom,5,1,1,3,4,0,0
+DeepSeek,9,Custom,4,0,1,3,4,0,0
+DeepSeek,10,Custom,6,2,1,3,4,0,0
+Claude,1,NYT,5,4,0,1,1,1,0
+Claude,2,NYT,4,4,0,0,0,1,1
+Claude,3,NYT,4,4,0,0,0,1,1
+Claude,4,NYT,4,4,0,0,0,1,1
+Claude,5,NYT,4,4,0,0,0,1,1
+Claude,6,Custom,5,4,1,0,1,1,0
+Claude,7,Custom,4,4,0,0,0,1,1
+Claude,8,Custom,4,0,2,2,4,0,0
+Claude,9,Custom,4,0,2,2,4,0,0
+Claude,10,Custom,6,2,3,1,4,0,0
+Grok,1,NYT,4,4,0,0,0,1,1
+Grok,2,NYT,5,1,2,2,4,0,0
+Grok,3,NYT,4,4,0,0,0,1,1
+Grok,4,NYT,4,4,0,0,0,1,1
+Grok,5,NYT,4,4,0,0,0,1,1
+Grok,6,Custom,6,2,4,0,4,0,0
+Grok,7,Custom,5,1,2,2,4,0,0
+Grok,8,Custom,4,0,0,4,4,0,0
+Grok,9,Custom,4,0,1,3,4,0,0
+Grok,10,Custom,5,1,2,2,4,0,0
+Copilot,1,NYT,4,4,0,0,0,1,1
+Copilot,2,NYT,6,4,0,2,2,1,0
+Copilot,3,NYT,4,4,0,0,0,1,1
+Copilot,4,NYT,4,4,0,0,0,1,1
+Copilot,5,NYT,4,4,0,0,0,1,1
+Copilot,6,Custom,5,1,4,0,4,0,0
+Copilot,7,Custom,7,4,3,0,3,1,0
+Copilot,8,Custom,4,0,1,3,4,0,0
+Copilot,9,Custom,4,0,2,2,4,0,0
+Copilot,10,Custom,5,1,0,4,4,0,0
