@@ -1,0 +1,9 @@
+model,nyt_connections,custom_connections,total
+Gemini,20,10,30
+Claude,20,10,30
+DeepSeek,16,11,27
+Vibe by Mistral,16,10,26
+Copilot,20,6,26
+ChatGPT,18,5,23
+Muse Spark,18,5,23
+Grok,17,4,21
