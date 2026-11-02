@@ -3,8 +3,8 @@ title: "AI vs NYT Connections: data and analysis"
 message: "If you use this data, please cite it."
 type: dataset
 authors:
-  - family-names: "[Family name]"
-    given-names: "[Given name]"
+  - family-names: "Uwadiae"
+    given-names: "Uyi"
 license: CC-BY-4.0
 date-released: "2026-11-01"
-url: "ADD-REPO-URL"
+url: "https://github.com/uyi-uwadiae/making-connections-ai-vs-nyt-connections"
