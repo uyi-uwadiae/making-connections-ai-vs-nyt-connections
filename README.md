@@ -4,7 +4,7 @@ Eight free AI models played ten rounds of Connections, one guess at a time, with
 
 - **Article:** [Making Connections: Artificial Intelligence meets Abstract Ingenuity using NYT Connections](ADD-SUBSTACK-LINK)
 - **Deck:** see `docs/` (PDF)
-- **Chat transcripts:** available on request; contact me via [LinkedIn](ADD-LINKEDIN-LINK).
+- **Chat transcripts:** available on request; contact me via [LinkedIn](https://www.linkedin.com/in/uyiuwadiae).
 
 ## Headline results
 
