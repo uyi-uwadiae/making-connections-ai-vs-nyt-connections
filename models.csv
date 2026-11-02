@@ -1,9 +1,9 @@
-model,version,tier,thinking_mode,test_dates
-Gemini,3.8 Flash,free,on,
-Claude,Sonnet 5.5,free,on,
-DeepSeek,4.1 Flash,free,on,
-Vibe by Mistral,Z.ai GLM 5.2,free,on,
-Copilot,not disclosed by vendor,free,on,
-ChatGPT,6,free,on,
-Muse Spark,1.3,free,on,
-Grok,4.5,free,not available,
+model,version,tier
+Gemini,3.8 Flash,free,on
+Claude,Sonnet 5.5,free,on
+DeepSeek,4.1 Flash,free,on
+Vibe by Mistral,Z.ai GLM 5.2,free,on
+Copilot,not disclosed by vendor,free,on
+ChatGPT,6,free,on
+Muse Spark,1.3,free,on
+Grok,4.5,free,not available
