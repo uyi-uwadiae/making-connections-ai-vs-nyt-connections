@@ -1,4 +1,4 @@
-model,version,tier
+model,version,tier,thinking_mode
 Gemini,3.8 Flash,free,on
 Claude,Sonnet 5.5,free,on
 DeepSeek,4.1 Flash,free,on
