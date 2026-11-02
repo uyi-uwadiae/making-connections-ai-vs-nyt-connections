@@ -17,12 +17,11 @@ Free versions of Gemini, Claude, Vibe by Mistral, DeepSeek, Copilot, ChatGPT, Mu
 
 ## Instruction prompt
 > I'd like to see if you can solve NYT Connections puzzles. 
+> I'll send a set of 16 terms and you are to group them into 4 groups of 4 based on a theme that connects each individual group. 
 
-I'll send a set of 16 terms and you are to group them into 4 groups of 4 based on a theme that connects each individual group. 
+> Respond with one connection (Group of 4) at a time and I'll let you know if it's correct (Y), if you have 3/4 of the group which means that you're one away (1), or if it's incorrect (N). When you have a Group of 4 Connections correct, those 4 are removed from the remain pool of terms
 
-Respond with one connection (Group of 4) at a time and I'll let you know if it's correct (Y), if you have 3/4 of the group which means that you're one away (1), or if it's incorrect (N). When you have a Group of 4 Connections correct, those 4 are removed from the remain pool of terms
-
-When you get a connection correct, I'll respond with Y and what the connection is.
+> When you get a connection correct, I'll respond with Y and what the connection is.
 
 Give your thoughts on what you think the connection between the terms is when you guess each time, even if it's just that you're going off vibes.
 
