@@ -46,3 +46,6 @@ The script prints a check of the published numbers against the CSVs, then writes
 
 Custom puzzle answers and NYT puzzle grids and solutions are left out so the puzzles stay playable. NYT puzzles are referenced by date only. Human solve rates for NYT puzzles come from u/conchis-ness.
 
+## License and citation
+
+Code: MIT (LICENSE). Data and charts: CC BY 4.0. See CITATION.cff.
